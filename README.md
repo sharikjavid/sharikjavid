@@ -1,6 +1,4 @@
-Here is the updated version with additional badges related to LLM models, tools of LLM, and cloud services:
 
----
 
 <h1 align="center">Hi 👋, I'm Sharik</h1>
 <h3 align="center">Exploring the Cutting Edge of Generative AI</h3>
