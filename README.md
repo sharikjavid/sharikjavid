@@ -1,10 +1,17 @@
+Here is the updated version with additional badges related to LLM models, tools of LLM, and cloud services:
+
+---
+
 <h1 align="center">Hi 👋, I'm Sharik</h1>
 <h3 align="center">Exploring the Cutting Edge of Generative AI</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharikjavid&label=Profile%20views&color=0e75b6&style=flat" alt="sharikjavid" /> </p>
-🔭 I’m currently working on Large Language Models (LLMs)
-🌱 I’m currently learning about Diffusion Models
-💬 Ask me about LLMs, NLP, Computer Vision, Reinforcement Learning, and Recommendation Engines
-📫 How to reach me: Contact
+
+- 🔭 I’m currently working on **Large Language Models (LLMs)**
+- 🌱 I’m currently learning about **Diffusion Models**
+- 💬 Ask me about **LLMs, NLP, Computer Vision, Reinforcement Learning, and Recommendation Engines**
+- 📫 How to reach me: [Contact](https://sharikjavid.com/#contact)
+
 ⚡ Fun fact: I once trained a neural network to summarize self-help books, and now it thinks it's my personal life coach!
 
 <h3 align="left">Connect with me:</h3>
@@ -12,6 +19,7 @@
 <a href="https://www.linkedin.com/in/sharikjavid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sharikjavid" height="30" width="40" /></a>
 <a href="https://medium.com/@sharikjavid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sharikjavid" height="30" width="40" /></a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
@@ -51,10 +59,26 @@
   <img alt="Google Cloud" src="https://img.shields.io/badge/google-cloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img alt="REST" src="https://img.shields.io/badge/rest-%23000000.svg?&style=for-the-badge&logo=rest&logoColor=white"/>
+  <img alt="REST" src="https://img.shields.io/badge/rest-%23000000.svg?&style=for-the-badge&logo=rest&logo
+
+Color=white"/>
   <img alt="GraphQL" src="https://img.shields.io/badge/graphql-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
   <img alt="gRPC" src="https://img.shields.io/badge/grpc-%2300C7B7.svg?&style=for-the-badge&logo=grpc&logoColor=white"/>
+  <img alt="LangChain" src="https://img.shields.io/badge/langchain-%23000000.svg?&style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-%23FF6F00.svg?&style=for-the-badge&logo=hugging-face&logoColor=white"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img alt="RLHF" src="https://img.shields.io/badge/RLHF-%234169E1.svg?&style=for-the-badge&logo=reinforcement-learning&logoColor=white"/>
+  <img alt="GPT-3" src="https://img.shields.io/badge/GPT--3-%23FFC700.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
+  <img alt="BERT" src="https://img.shields.io/badge/BERT-%2300A47E.svg?&style=for-the-badge&logo=bert&logoColor=white"/>
+  <img alt="T5" src="https://img.shields.io/badge/T5-%23007ACC.svg?&style=for-the-badge&logo=t5&logoColor=white"/>
+  <img alt="LLM" src="https://img.shields.io/badge/LLM-%23232F3E.svg?&style=for-the-badge&logo=llm&logoColor=white"/>
+  <img alt="DeepSpeed" src="https://img.shields.io/badge/DeepSpeed-%2300C4CC.svg?&style=for-the-badge&logo=deepspeed&logoColor=white"/>
+  <img alt="Accelerate" src="https://img.shields.io/badge/Accelerate-%23FF6F00.svg?&style=for-the-badge&logo=accelerate&logoColor=white"/>
 </p>
+
 <h3 align="left">Don't forget to have fun!</h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 <p align="center"> <img src="./gitartwork.svg" alt="sharikjavid" /> </p>
+
+---
