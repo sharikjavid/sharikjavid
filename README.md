@@ -1,18 +1,27 @@
-
-
 <h1 align="center">Hi 👋, I'm Sharik</h1>
-<h6 align="center">I am a senior software engineer with more than 7 years of experience, currently working at Marriott.
+<h3 align="center">
+  Senior Software Engineer | 7+ Years Experience | AI & Full-Stack Development
+</h3>
 
-I work equally on backend and frontend, and I am a code-quality evangelist, always looking to improve and share best practices with my team. I work hard to provide maintainable, extensible, and robust solutions.</h6>
+<h4 align="center">
+  Currently working at Marriott, I am equally proficient in backend and frontend development, with a passion for delivering maintainable, extensible, and robust code. As a code-quality evangelist, I continuously aim to improve and share best practices with my team.
+</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharikjavid&label=Profile%20views&color=0e75b6&style=flat" alt="sharikjavid" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharikjavid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on **Large Language Models (LLMs) and integrating AI capabilities into full-stack development**
-- 🌱 Exploring **Diffusion Models and expanding my knowledge in AI**
-- 💬 Ask me about **Distributed Systems, Microservices, Cloud Infrastructure, and Front-End Technologies**
-- 🚀 Skilled in designing and implementing **scalable systems and high-performance applications**
-- 👨‍💻 Also experienced in **AI technologies like LLMs and NLP, with a focus on integration into full-stack solutions**
-- 📫 How to reach me: [Contact](https://sharikjavid.com/#contact)
+<div align="center">
+  <ul style="list-style:none;">
+    <li>🔭 Currently working on <strong>Large Language Models (LLMs)</strong> and integrating AI into full-stack development</li>
+    <li>🌱 Exploring <strong>Diffusion Models</strong> and expanding my knowledge in AI</li>
+    <li>💬 Ask me about <strong>Distributed Systems, Microservices, Cloud Infrastructure, and Front-End Technologies</strong></li>
+    <li>🚀 Skilled in designing and implementing <strong>scalable systems and high-performance applications</strong></li>
+    <li>👨‍💻 Experienced in <strong>AI technologies like LLMs and NLP</strong> with a focus on full-stack solutions</li>
+    <li>📫 How to reach me: <a href="https://sharikjavid.com/#contact"><strong>Contact</strong></a></li>
+  </ul>
+</div>
+
 
 ⚡ Fun fact: I once trained a neural network to summarize self-help books, and now it thinks it's my personal life coach!
 
