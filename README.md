@@ -8,19 +8,15 @@
   Currently working at Marriott, I am equally proficient in backend and frontend development, with a passion for delivering maintainable, extensible, and robust code. As a code-quality evangelist, I continuously aim to improve and share best practices with my team.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharikjavid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### About Me
 
 - 🔭 **Currently working on**: Large Language Models (LLMs) and integrating AI into full-stack development
-- 🌱 **Exploring**: Diffusion Models and expanding my knowledge in AI
 - 💬 **Ask me about**: Distributed Systems, Microservices, Cloud Infrastructure, and Front-End Technologies
 - 🚀 **Skilled in**: Designing and implementing scalable systems and high-performance applications
 - 👨‍💻 **Experienced in**: AI technologies like LLMs and NLP with a focus on full-stack solutions
+- 🌱 **Exploring**: Diffusion Models and expanding my knowledge in AI
 - 📫 **How to reach me**: [Contact](https://sharikjavid.com/#contact)
 
 
