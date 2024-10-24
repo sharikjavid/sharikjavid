@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharikjavid&label=Profile%20views&color=0e75b6&style=flat" alt="sharikjavid" /> </p>
 
-- 🔭 I’m currently working on **Large Language Models (LLMs)**
-- 🌱 I’m currently learning about **Diffusion Models**
-- 💬 Ask me about **LLMs, NLP, Computer Vision, Reinforcement Learning, and Recommendation Engines**
+- 🔭 🔭 I’m currently working on **Large Language Models (LLMs) and integrating AI capabilities into full-stack development**
+- 🌱 Exploring **Diffusion Models and expanding my knowledge in AI**
+- 💬 Ask me about **Distributed Systems, Microservices, Cloud Infrastructure, and Front-End Technologies**
+- 🚀 Skilled in designing and implementing **scalable systems and high-performance applications**
+- 👨‍💻 Also experienced in **AI technologies like LLMs and NLP, with a focus on integration into full-stack solutions**
 - 📫 How to reach me: [Contact](https://sharikjavid.com/#contact)
 
 ⚡ Fun fact: I once trained a neural network to summarize self-help books, and now it thinks it's my personal life coach!
