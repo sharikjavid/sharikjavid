@@ -1,26 +1,27 @@
 <h1 align="center">Hi 👋, I'm Sharik</h1>
+
 <h3 align="center">
   Senior Software Engineer | 7+ Years Experience | AI & Full-Stack Development
 </h3>
 
-<h4 align="center">
+<p align="center">
   Currently working at Marriott, I am equally proficient in backend and frontend development, with a passion for delivering maintainable, extensible, and robust code. As a code-quality evangelist, I continuously aim to improve and share best practices with my team.
-</h4>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharikjavid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<div align="center">
-  <ul style="list-style:none;">
-    <li>🔭 Currently working on <strong>Large Language Models (LLMs)</strong> and integrating AI into full-stack development</li>
-    <li>🌱 Exploring <strong>Diffusion Models</strong> and expanding my knowledge in AI</li>
-    <li>💬 Ask me about <strong>Distributed Systems, Microservices, Cloud Infrastructure, and Front-End Technologies</strong></li>
-    <li>🚀 Skilled in designing and implementing <strong>scalable systems and high-performance applications</strong></li>
-    <li>👨‍💻 Experienced in <strong>AI technologies like LLMs and NLP</strong> with a focus on full-stack solutions</li>
-    <li>📫 How to reach me: <a href="https://sharikjavid.com/#contact"><strong>Contact</strong></a></li>
-  </ul>
-</div>
+---
+
+### About Me
+
+- 🔭 **Currently working on**: Large Language Models (LLMs) and integrating AI into full-stack development
+- 🌱 **Exploring**: Diffusion Models and expanding my knowledge in AI
+- 💬 **Ask me about**: Distributed Systems, Microservices, Cloud Infrastructure, and Front-End Technologies
+- 🚀 **Skilled in**: Designing and implementing scalable systems and high-performance applications
+- 👨‍💻 **Experienced in**: AI technologies like LLMs and NLP with a focus on full-stack solutions
+- 📫 **How to reach me**: [Contact](https://sharikjavid.com/#contact)
 
 
 ⚡ Fun fact: I once trained a neural network to summarize self-help books, and now it thinks it's my personal life coach!
