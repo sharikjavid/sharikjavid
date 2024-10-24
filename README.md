@@ -1,7 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Sharik</h1>
-<h3 align="center">Exploring the Cutting Edge of Generative AI</h3>
+<h3 align="center">I am a senior software engineer with more than 7 years of experience, currently working at Marriott.
+
+I work equally on backend and frontend, and I am a code-quality evangelist, always looking to improve and share best practices with my team. I work hard to provide maintainable, extensible, and robust solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharikjavid&label=Profile%20views&color=0e75b6&style=flat" alt="sharikjavid" /> </p>
 
