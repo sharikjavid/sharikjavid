@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharikjavid&label=Profile%20views&color=0e75b6&style=flat" alt="sharikjavid" /> </p>
 
-- 🔭 🔭 I’m currently working on **Large Language Models (LLMs) and integrating AI capabilities into full-stack development**
+- 🔭 I’m currently working on **Large Language Models (LLMs) and integrating AI capabilities into full-stack development**
 - 🌱 Exploring **Diffusion Models and expanding my knowledge in AI**
 - 💬 Ask me about **Distributed Systems, Microservices, Cloud Infrastructure, and Front-End Technologies**
 - 🚀 Skilled in designing and implementing **scalable systems and high-performance applications**
