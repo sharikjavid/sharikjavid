@@ -12,11 +12,11 @@
 
 ### About Me
 
-- 🔭 **Currently working on**: Large Language Models (LLMs) and integrating AI into full-stack development
+- 🔭 **Currently working on**: Large Language Models (LLMs) 
 - 💬 **Ask me about**: Distributed Systems, Microservices, Cloud Infrastructure, and Front-End Technologies
 - 🚀 **Skilled in**: Designing and implementing scalable systems and high-performance applications
 - 👨‍💻 **Experienced in**: AI technologies like LLMs and NLP with a focus on full-stack solutions
-- 🌱 **Exploring**: Diffusion Models and expanding my knowledge in AI
+- 🌱 **Exploring**: LLM Agents
 - 📫 **How to reach me**: [Contact](https://sharikjavid.com/#contact)
 
 
