@@ -13,7 +13,6 @@
 ### About Me
 
 - 🔭 **Currently working on**: Large Language Models (LLMs) 
-- 💬 **Ask me about**: Distributed Systems, Microservices, Cloud Infrastructure, and Front-End Technologies
 - 🚀 **Skilled in**: Designing and implementing scalable systems and high-performance applications
 - 👨‍💻 **Experienced in**: AI technologies like LLMs and NLP with a focus on full-stack solutions
 - 🌱 **Exploring**: LLM Agents
