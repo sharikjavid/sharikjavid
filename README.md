@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Currently working at Marriott, I am equally proficient in backend and frontend development, with a passion for delivering maintainable, extensible, and robust code. As a code-quality evangelist, I continuously aim to improve and share best practices with my team.
+  Currently working at Marriott, with a passion for delivering maintainable, extensible, and robust code. As a code-quality evangelist, I continuously aim to improve and share best practices with my team.
 </p>
 
 ---
