@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharik</h1>
 
-<h3 align="center">
-  Senior Software Engineer | 7+ Years Experience | AI & Full-Stack Development
-</h3>
-
-<p align="center">
-  Currently working at Marriott, with a passion for delivering maintainable, extensible, and robust code. As a code-quality evangelist, I continuously aim to improve and share best practices with my team.
-</p>
-
----
-
 ### About Me
 
 - 🔭 **Currently working on**: Large Language Models (LLMs) 
